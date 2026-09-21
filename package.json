@@ -1,0 +1,11 @@
+{
+  "name": "resume-esurvey-data-platform",
+  "version": "1.0.0",
+  "description": "Survey collection and reporting platform with validation, aggregation, and filtered retrieval APIs.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node src/reporting.test.js"
+  },
+  "license": "MIT"
+}

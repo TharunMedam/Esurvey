@@ -22,4 +22,3 @@ Open `http://localhost:4200`.
 The project uses an in-memory dataset so it can run locally without database setup. The reporting module mirrors the cleaning, aggregation, and structured report workflow described in the resume.
 
 On Vercel, this is a demo only: submitted responses are not durable across function restarts.
-
