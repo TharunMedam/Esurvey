@@ -1,0 +1,9 @@
+.env*
+!.env.example
+*.db
+tests/
+__pycache__/
+.pytest_cache/
+DEPLOYMENT.md
+docs/
+README.md
